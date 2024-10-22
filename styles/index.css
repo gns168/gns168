@@ -85,9 +85,14 @@ body, html {
 /* 1.0 Template */
 
 .top-container {
+  background-image: url(/images/header\ 4.jpg);
   background-color: #f1f1f1;
   padding: 30px;
   text-align: center;
+
+  width: auto;
+  height: 50%;
+  object-fit: fill;
 }
 
 .header {
